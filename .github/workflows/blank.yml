@@ -26,8 +26,8 @@ jobs:
       - uses: actions/checkout@v2
       - name: run_listgenerator
         run: 
-          cd $GITHUB_WORKSPACE/List
-          bash listGenerator.sh
+          cd $GITHUB_WORKSPACE/List;
+          bash ./listGenerator.sh
       # Runs a single command using the runners shell
       - name: Run a one-line script
         run: echo Hello, world!
