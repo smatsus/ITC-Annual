@@ -36,12 +36,13 @@
  
 【執筆案内等】
 https://itc-utokyo.cybozu.com/o/ag.cgi?page=FileIndex&fCID=27634
+
 【サンプル・テンプレート等】
-
 https://itc-utokyo.cybozu.com/o/ag.cgi?page=FileIndex&gid=&fCID=27642
-【サイボウズにアクセスできない場合はこちらにもデータ保存しております】
 
+【サイボウズにアクセスできない場合はこちらにもデータ保存しております】
 https://webfs.adm.u-tokyo.ac.jp/public/JgyYgA6JzAFAiYwBwKt3teEFhalJ3buGHW6JqwL6hm5U
+
 【参考：年報掲載URL】
 https://www.itc.u-tokyo.ac.jp/public/annual_report/
  
