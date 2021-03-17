@@ -11,7 +11,9 @@
 - どのプロセスも特に競合などは気にする必要はないはずなので常時共同編集可能
 - とりあえず現在の状態を保存したいときは2. OverleafにてMenu->GitHub->Push Overleaf Changes to Github　を実行。
 
-- センターの周知メール
+
+######################################################
+センターの周知メール
 [center-all 363] 年報執筆依頼(締切:4月9日)
 センター教職員の皆様：
  
@@ -32,8 +34,10 @@
 【執筆案内等】
 https://itc-utokyo.cybozu.com/o/ag.cgi?page=FileIndex&fCID=27634
 【サンプル・テンプレート等】
+
 https://itc-utokyo.cybozu.com/o/ag.cgi?page=FileIndex&gid=&fCID=27642
 【サイボウズにアクセスできない場合はこちらにもデータ保存しております】
+
 https://webfs.adm.u-tokyo.ac.jp/public/JgyYgA6JzAFAiYwBwKt3teEFhalJ3buGHW6JqwL6hm5U
 【参考：年報掲載URL】
 https://www.itc.u-tokyo.ac.jp/public/annual_report/
@@ -56,12 +60,11 @@ https://www.itc.u-tokyo.ac.jp/public/annual_report/
 ください。
  
 ＊原稿提出先: 各部門の年報編集委員
-　　・情報メディア教育(研究)部門: 品川
-　　・データ科学研究部門（学術情報部門）:姜
-　　・ネットワーク(研究)部門: 小川
-　　・スーパーコンピューティング(研究)部門: 星野
-　　・学際情報科学研究体: 飯野
-　　・情報セキュリティ研究体:下田
- 
+・情報メディア教育(研究)部門: 品川
+・データ科学研究部門（学術情報部門）:姜
+・ネットワーク(研究)部門: 小川
+・スーパーコンピューティング(研究)部門: 星野
+・学際情報科学研究体: 飯野
+・情報セキュリティ研究体:下田
 配布予定は2020年7月です。
 ＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊  
